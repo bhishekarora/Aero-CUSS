@@ -2,4 +2,4 @@
 Free open source CUSS for all to use 
 
 
-![Alt text](cuss.jpg)
+![Alt text](cuss.png)
